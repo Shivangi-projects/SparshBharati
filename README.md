@@ -170,5 +170,5 @@ pnpm build   # production build
 ## 14. Team
 
 - Shivangi Kakkar (https://github.com/Shivangi-projects)
-- Sanchi Goyal.   (https://github.com/sanzzzz-g)
+- Sanchi Goyal   (https://github.com/sanzzzz-g)
 
