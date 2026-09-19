@@ -98,12 +98,6 @@ cp .env.example .env.local   # optional: add a translation provider key
 pnpm dev                     # http://localhost:3000
 ```
 
-Environment variables (see `.env.example`):
-
-| Variable | Purpose |
-|---|---|
-| `BHASHINI_API_KEY` | Optional. Used only by the server-side translate route. Never sent to the client. |
-
 ## 8. Tests and evidence of quality
 
 ```bash
