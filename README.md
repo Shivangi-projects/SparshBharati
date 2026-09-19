@@ -132,8 +132,6 @@ pnpm build   # production build
 |---|---|---|
 | ![Speak to Feel](docs/screenshots/speak-to-feel.png) | ![Braille to Speak](docs/screenshots/braille-to-speak.png) | ![Alerts](docs/screenshots/alerts.png) |
 
-_Add light and dark mode screenshots at 390x844 (phone) and 1280x800 (desktop) to `docs/screenshots/`._
-
 ## 10. Measurable impact
 
 - **Cost:** imported refreshable Braille displays cost lakhs of rupees. Our software layer is free to use in a browser, and the planned 6-motor wearable has a target build cost under ₹2,500 (an estimate, not yet built).
